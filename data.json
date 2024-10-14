@@ -1,0 +1,39 @@
+{
+    "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": 33,
+            "color": "#ffcd56"
+        },
+        {
+            "title": "Rent",
+            "budget": 50,
+            "color": "#ff6384"
+        },
+        {
+            "title": "Grocery",
+            "budget": 90,
+            "color": "#36a2eb"
+        },
+        {
+            "title": "expenses",
+            "budget": 290,
+            "color": "#fd6b19"
+        },
+        {
+            "title": "electricity",
+            "budget": 100,
+            "color": "#33FF57"
+        },
+        {
+            "title": "wifi",
+            "budget": 50,
+            "color": "#33FFFF"
+        },
+        {
+            "title": "gas",
+            "budget": 20,
+            "color": "#FF33FF"
+        }
+    ]
+}
